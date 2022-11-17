@@ -17,10 +17,14 @@
   "author": "Gleb Bahmutov <gleb@cypress.io>",
   "license": "ISC",
   "devDependencies": {
+    "cypress": "^11.1.0",
     "ok-file": "1.5.2"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/cypress-io/cypress-test-tiny.git"
+  },
+  "volta": {
+    "node": "14.14.0"
   }
 }
